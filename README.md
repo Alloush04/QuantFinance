@@ -27,8 +27,12 @@ This project analyzes historical stock prices using Python and the `yfinance` li
 ### Medium-Term (1,000 Bets)
 - The number of winners decreases as luck starts to balance out.
 - The average outcome trends towards a loss due to the house edge.
-  ![Final Outcome Distribution](images/final_outcomes.png)
+  ![Final Outcome Distribution](myplot1000.png)
 
-### Long-Term (100,000 Bets)
+### Long-Term (10,000 Bets)
 - Almost all bettors lose money, as the house edge dominates.
 - Only a very small number of bettors remain in profit, and even they barely break even.
+![Final Outcome Distribution](myplot10000.png)
+
+### Long-Term (100,000 Bets)
+![Final Outcome Distribution](myplot100000.png)
