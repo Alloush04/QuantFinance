@@ -22,7 +22,7 @@ This project analyzes historical stock prices using Python and the `yfinance` li
 ### Short-Term (100 Bets)
 - Some bettors make significant profits due to luck.
 - Randomness plays a big role, and results vary widely.
-   ![Volatility Analysis](images/volatility_analysis.png)
+   ![Volatility Analysis](images/myplot100.png)
 
 ### Medium-Term (1,000 Bets)
 - The number of winners decreases as luck starts to balance out.
